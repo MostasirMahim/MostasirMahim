@@ -47,14 +47,12 @@
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Redux" height="25" src="images/redux.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
-
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="Android" height="25" src="images/android.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
 </p>
 <hr>
@@ -80,8 +78,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/MostasirMahim/Twitter-Clone" title="Twitter Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MostasirMahim&repo=Twitter-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
-   <a align="right" href="https://github.com/MostasirMahim/MahimAI" title="PDF Analyzer AI"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MostasirMahim&repo=MahimAI&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/MostasirMahim/Twitter-Clone" title="Twitter Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MostasirMahim&repo=Twitter-Clone&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/MostasirMahim/MahimAI" title="PDF Analyzer AI"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MostasirMahim&repo=MahimAI&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
