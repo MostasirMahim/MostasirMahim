@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+MOSTASIR+MAHIM....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+MOSTASIR+MAHIM....;Nice+to+meet+you!&center=true&size=28">
   </a>
 </h1>
 
@@ -88,7 +88,8 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/MostasirMahim/Twitter-Clone" title="Twitter Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/MostasirMahim/Twitter-Clone" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MostasirMahim&repo=Twitter-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/MostasirMahim/Twitter-Clone" title="Twitter Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
+   <a align="right" href="https://github.com/MostasirMahim/MahimAI" title="PDF Analyzer AI"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MostasirMahim&repo=MahimAI&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
@@ -98,7 +99,7 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/MostasirMahim/Maraz-Source-Code" title="Multi Seller Ecommerce Platform"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MostasirMahim&repo=Maraz-Source-Code&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/MostasirMahim/MahimAI" title="PDF Analyzer AI"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MostasirMahim&repo=MahimAI&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/MostasirMahim/Chatbot" title="Chatbot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MostasirMahim&repo=Chatbot&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
