@@ -61,7 +61,7 @@
 <br>
 <p align=center>
   <div align=center>
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=MostasirMahim&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=MostasirMahim&theme=react" alt="Mostasir_Mahim" />
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=MostasirMahim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
   <br><br><br><br><br><br><br><br><br>
